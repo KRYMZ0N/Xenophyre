@@ -1,0 +1,10 @@
+{
+"required": true,
+"compatibilityLevel": "JAVA_8",
+"package": "me.krymz0n.xenophyre.api.mixin.mixins",
+"refmap": "mixins.xenophyre.refmap.json",
+"mixins": [
+  "MixinEntityPlayerSP",
+  "MixinGuiMainMenu"
+]
+}

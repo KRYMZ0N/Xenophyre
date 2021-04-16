@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xpc",
+  "name": "Xenophyre",
+  "description": "An anarchy utility mod for 1.12.2!",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KRYMZ0N"],
+  "credits": "SrgantMooMoo for the base, and lemon click GUI",
+  "logoFile": "Xeno.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
