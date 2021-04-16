@@ -19,8 +19,8 @@ public class Discord {
         discordRPC.Discord_Initialize(discordID, eventHandlers, true, null);
 
         discordRichPresence.startTimestamp = System.currentTimeMillis() / 1000L;
-        discordRichPresence.details = Minecraft.getMinecraft().player.getName() + " on " + Minecraft.getMinecraft().serverName;
-        discordRichPresence.largeImageKey = "Xeno.png";
+        discordRichPresence.details = Minecraft.getMinecraft().player.getName();
+        discordRichPresence.largeImageKey = "xeno";
         discordRichPresence.largeImageText = "Xenophyre on top!";
         discordRichPresence.state = "I am on version " + Main.version + "!";
         discordRPC.Discord_UpdatePresence(discordRichPresence);

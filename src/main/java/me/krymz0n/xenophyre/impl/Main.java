@@ -33,7 +33,7 @@ import org.lwjgl.input.Keyboard;
 public class Main {
 	public static final String modid = "xpc";
 	public static final String name = "Xenophyre";
-	public static final String version = "0.1.0";
+	public static final String version = "0.1.1";
 	public static final String acceptedVersions = "[1.12.2]";
 	public static final String clientProxyClass = "me.krymz0n.xenophyre.api.proxy.ClientProxy";
 	public static final String commonProxyClass = "me.krymz0n.xenophyre.api.proxy.CommonProxy";
